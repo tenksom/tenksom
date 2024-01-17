@@ -2,8 +2,12 @@
 
 I'm a computer science student from Germany.
 
-- 👨‍💻 Currently I'm working on an API, which is for all the public data provided by the federal government of Germany.
+## My Project
+
+- Currently I'm working on an API, which is for all the public data provided by the federal government of Germany.
   Also it provides data from the federal states.
+
+## Contact
 
 You can reach me via Email: [joachim@stramke.com](mailto:joachim@stramke.com) or via Matrix: @joachim.stramke:matrix.ifsr.de
 
