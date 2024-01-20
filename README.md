@@ -4,8 +4,7 @@ I'm a computer science student from Germany.
 
 ## My Project
 
-- Currently I'm working on an API, which is for all the public data provided by the federal government of Germany.
-  Also it provides data from the federal states.
+- I'm currently working on an API for all public data provided by the German federal government. It also provides data from the federal states.
 
 ## Contact
 
